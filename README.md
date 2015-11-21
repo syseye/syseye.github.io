@@ -1,2 +1,2 @@
 # syseye
-A System Administer that is easy to communicate
+A System Administer that is easy to communicate with
