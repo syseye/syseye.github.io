@@ -1,0 +1,10 @@
+deb http://debian.ustc.edu.cn/ubuntu/ vivid main multiverse restricted universe
+deb http://debian.ustc.edu.cn/ubuntu/ vivid-backports main multiverse restricted universe
+deb http://debian.ustc.edu.cn/ubuntu/ vivid-proposed main multiverse restricted universe
+deb http://debian.ustc.edu.cn/ubuntu/ vivid-security main multiverse restricted universe
+deb http://debian.ustc.edu.cn/ubuntu/ vivid-updates main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ vivid main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ vivid-backports main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ vivid-proposed main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ vivid-security main multiverse restricted universe
+deb-src http://debian.ustc.edu.cn/ubuntu/ vivid-updates main multiverse restricted universe
